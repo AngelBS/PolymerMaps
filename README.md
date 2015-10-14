@@ -1,2 +1,2 @@
 # PolymerMaps
-Google Maps created using Polymer and Google Maps Api
+Google Maps app created using Polymer v.0.5.5 and Google Maps API
